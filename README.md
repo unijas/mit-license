@@ -1,8 +1,11 @@
 Fork this project to create your own MIT license that you can always link to.
 
-### How?
+---
 
-1. Use GitHub Pages by creating `gh-pages` branch for this repository.
-2. Link the anchor to `http://<username>.github.io/mit-license`.
+1. Fork this repo, of course!
+2. Create `gh-pages` branch for this repository.
+3. Link your project to something like `http://<username>.github.io/mit-license`.
 
-[MIT License](http://heiswayi.github.io/mit-license)
+---
+
+[Example](http://heiswayi.github.io/mit-license)
