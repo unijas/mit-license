@@ -8,4 +8,4 @@ Fork this project to create your own MIT license that you can always link to.
 
 ---
 
-[Example](http://heiswayi.github.io/mit-license)
+[Example](http://unijas.github.io/mit-license)
